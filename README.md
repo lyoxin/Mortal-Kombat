@@ -1,8 +1,8 @@
 # Mortal-Kombat
 ## Выполнил проект - Алексей Марченко
 ### Технологии:
- HTML
- CSS
- Normalize
- jQuery
- Fancybox(jQuery)
+- HTML
+- CSS
+- Normalize
+- jQuery
+- Fancybox(jQuery)
